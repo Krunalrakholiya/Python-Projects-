@@ -1,4 +1,4 @@
-[
+data = [
   {
     "keyword": "Grenfell Tower",
     "searchVolume": 550000,
